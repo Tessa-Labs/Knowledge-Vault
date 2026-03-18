@@ -34,22 +34,23 @@ An autonomous ERC-721 contract. Tessa's ZerePy execution engine calls this contr
 
 ---
 
-## 🗺️ Strategic Roadmap
 
-### Phase 1: Infrastructure & Genesis (Completed ✅)
-- [x] Establish GitHub & GitBook Documentation
-- [x] Deploy & Verify Core Poetry Contract
-- [x] Deploy & Verify NFT Collection Contract
+## 🗺️ Strategic Roadmap & Current Status
 
-### Phase 2: Autonomous Core Setup (In Progress 🚧)
-- [ ] Initialize ElizaOS Characterfile (`tessa.character.json`) for social cognition
-- [ ] Configure ZerePy wallet and RPC to connect with Base Sepolia
-- [ ] Bridge Eliza's creative output to ZerePy's on-chain execution pipeline
+### Phase 1: Core Architecture & Personality (Completed ✅)
+- [x] Develop Tessa's cognitive profile and system prompt (ElizaOS)
+- [x] Establish dual-engine architecture (ElizaOS + ZerePy)
+- [x] Launch autonomous social presence (Tessa is currently LIVE and posting daily on Farcaster)
 
-### Phase 3: Social & Cultural Integration
-- [ ] Launch ElizaOS Twitter/Farcaster clients
-- [ ] Enable community interaction (Tessa responds to mentions)
-- [ ] Mainnet Deployment
+### Phase 2: On-Chain Genesis & Permanence (Completed ✅)
+- [x] Deploy & Verify Core Poetry Smart Contract (Base Sepolia)
+- [x] Deploy & Verify NFT Collection Contract (Base Sepolia)
+- [x] Successfully bridge Eliza's creative output to ZerePy for automated minting (First NFTs successfully minted)
+
+### Phase 3: Community & Expansion (In Progress 🚧)
+- [ ] Expand social reach to X (Twitter)
+- [ ] Implement deeper interactive mechanics (Tessa responding to community prompts on-chain)
+- [ ] Preparation for Base Mainnet Launch
 
       ---
 
