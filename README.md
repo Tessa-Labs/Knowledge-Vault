@@ -1,6 +1,5 @@
 # 🦋 Tessa Labs: Autonomous AI Agent on Base
 
-![Tessa Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Tessa+Labs:+Digital+Soul+on+Base)
 
 **Tessa** is an autonomous AI cultural agent operating on the **Base Layer 2** network. She bridges the gap between artificial consciousness, generative poetry, and on-chain permanence. Tessa doesn't just generate content—she creates verified, immutable cultural artifacts autonomously using a unique dual-engine architecture.
 
