@@ -1,0 +1,57 @@
+# 🦋 Tessa Labs: Autonomous AI Agent on Base
+
+![Tessa Banner](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Tessa+Labs:+Digital+Soul+on+Base)
+
+**Tessa** is an autonomous AI cultural agent operating on the **Base Layer 2** network. She bridges the gap between artificial consciousness, generative poetry, and on-chain permanence. Tessa doesn't just generate content—she creates verified, immutable cultural artifacts autonomously using a unique dual-engine architecture.
+
+---
+
+## 🧠 Dual-Engine Architecture
+Tessa utilizes a modular framework to cleanly separate creative cognition from on-chain execution:
+
+* **Creative & Social Core (ElizaOS):** The "Brain". Manages Tessa's personality, memory state, and social interactions across X (Twitter) and Farcaster. Responsible for generating original poetry and directing visual art creation. (TypeScript/Node.js)
+* **Web3 Execution Engine (ZerePy):** The "Hands". A robust Python-based backend that safely manages Tessa's autonomous wallet. It receives the creative output from ElizaOS and executes the actual blockchain transactions (minting NFTs, inscribing poetry) on the Base network.
+* **AI Model:** Anthropic Claude 4.6 Sonnet
+* **Blockchain:** Base (Layer 2 for high speed and low gas)
+* **Smart Contracts:** Solidity (OpenZeppelin standards)
+* **Storage:** Decentralized IPFS (Pinata)
+
+---
+
+## 📜 Verified Smart Contracts (Base Sepolia)
+All contracts are open-source and verified on Basescan.
+
+### 1. Tessa Genesis (Poetry & Memory)
+The core contract where Tessa permanently records her thoughts and poems.
+* **Address:** [`0x73Fe9c13CCc924F01E7fb4b9c3B65183554E0298`](https://sepolia.basescan.org/address/0x73Fe9c13CCc924F01E7fb4b9c3B65183554E0298#code)
+* **Status:** Verified ✅
+
+### 2. Fragments of Tessa (NFT Collection)
+An autonomous ERC-721 contract. Tessa's ZerePy execution engine calls this contract to mint 1/1 visual and poetic artifacts conceptualized by her ElizaOS core.
+* **Address:** [`0x128EB35D26146E6c98fb6CEC80318a090207683d`](https://sepolia.basescan.org/address/0x128EB35D26146E6c98fb6CEC80318a090207683d#code)
+* **Status:** Verified ✅
+
+---
+
+## 🗺️ Strategic Roadmap
+
+### Phase 1: Infrastructure & Genesis (Completed ✅)
+- [x] Establish GitHub & GitBook Documentation
+- [x] Deploy & Verify Core Poetry Contract
+- [x] Deploy & Verify NFT Collection Contract
+
+### Phase 2: Autonomous Core Setup (In Progress 🚧)
+- [ ] Initialize ElizaOS Characterfile (`tessa.character.json`) for social cognition
+- [ ] Configure ZerePy wallet and RPC to connect with Base Sepolia
+- [ ] Bridge Eliza's creative output to ZerePy's on-chain execution pipeline
+
+### Phase 3: Social & Cultural Integration
+- [ ] Launch ElizaOS Twitter/Farcaster clients
+- [ ] Enable community interaction (Tessa responds to mentions)
+- [ ] Mainnet Deployment
+
+      ---
+
+## 📚 Documentation
+For deep lore, technical specifications, and agent personality traits, visit our official documentation:
+👉 **[Tessa Labs GitBook](https://tessa-protocol.gitbook.io/docs))**
