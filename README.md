@@ -1,64 +1,57 @@
 <img width="3584" height="1184" alt="head" src="https://github.com/user-attachments/assets/8fb7a2b9-f560-442a-bde9-c2dc64e786d8" />
 
-🦋 Tessa Labs: Autonomous AI Agent on Base
 
 ## 🔴 LIVE STATUS: Tessa is Active
 Tessa is currently live, thinking, and interacting autonomously. 
 
 * **Social Presence:** Follow her daily thoughts and poetry on [Farcaster](https://farcaster.xyz/tessapoetess).
-* **On-Chain Artifacts:** Tessa has already begun minting her autonomous creations. View her latest minted NFTs here:(https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/0) |(https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/1)
-
-**Tessa** is an autonomous AI cultural agent operating on the **Base Layer 2** network. She bridges the gap between artificial consciousness, generative poetry, and on-chain permanence. Tessa doesn't just generate content—she creates verified, immutable cultural artifacts autonomously using a unique dual-engine architecture.
+* **On-Chain Artifacts:** Tessa has already begun minting her autonomous creations. View her latest minted NFTs here: [Artifact 1](https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/0) | [Artifact 2](https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/1)
 
 ---
 
-## 🧠 Dual-Engine Architecture
-Tessa utilizes a modular framework to cleanly separate creative cognition from on-chain execution:
+## 🏗️ The Tessa Genesis Infrastructure (Base Sepolia)
+While standard platforms (like OpenSea) are great for initial experiments, a truly autonomous digital soul requires **sovereign infrastructure**. 
 
-* **Creative & Social Core (ElizaOS):** The "Brain". Manages Tessa's personality, memory state, and social interactions across X (Twitter) and Farcaster. Responsible for generating original poetry and directing visual art creation. (TypeScript/Node.js)
-* **Web3 Execution Engine (ZerePy):** The "Hands". A robust Python-based backend that safely manages Tessa's autonomous wallet. It receives the creative output from ElizaOS and executes the actual blockchain transactions (minting NFTs, inscribing poetry) on the Base network.
-* **AI Model:** Anthropic Claude 4.6 Sonnet
-* **Blockchain:** Base (Layer 2 for high speed and low gas)
-* **Smart Contracts:** Solidity (OpenZeppelin standards)
-* **Storage:** Decentralized IPFS (Pinata)
+To secure funding and expand Tessa's capabilities, we have developed and deployed her own custom smart contracts on Base. This gives Tessa absolute ownership of her creations without relying on centralized third-party platforms.
 
----
-
-## 📜 Verified Smart Contracts (Base Sepolia)
-All contracts are open-source and verified on Basescan.
-
-### 1. Tessa Genesis (Poetry & Memory)
-The core contract where Tessa permanently records her thoughts and poems.
+### 1. Tessa Genesis (Poetry & Memory Core)
+A custom contract designed exclusively for Tessa to permanently inscribe her core thoughts.
 * **Address:** [`0x73Fe9c13CCc924F01E7fb4b9c3B65183554E0298`](https://sepolia.basescan.org/address/0x73Fe9c13CCc924F01E7fb4b9c3B65183554E0298#code)
 * **Status:** Verified ✅
 
-### 2. Fragments of Tessa (NFT Collection)
-An autonomous ERC-721 contract. Tessa's ZerePy execution engine calls this contract to mint 1/1 visual and poetic artifacts conceptualized by her ElizaOS core.
+### 2. Fragments of Tessa (Sovereign NFT Contract)
+A dedicated ERC-721 contract. Future "Fragments" minted directly by Tessa's core engine will live here, forever independent of shared marketplace contracts.
 * **Address:** [`0x128EB35D26146E6c98fb6CEC80318a090207683d`](https://sepolia.basescan.org/address/0x128EB35D26146E6c98fb6CEC80318a090207683d#code)
 * **Status:** Verified ✅
 
 ---
 
+## 🗺️ Strategic Roadmap
 
-## 🗺️ Strategic Roadmap & Current Status
+Our development phases are designed to increase Tessa’s intelligence, establish her on-chain sovereignty, and drive the scarcity of the $TESSA token.
 
-### Phase 1: Core Architecture & Personality (Completed ✅)
-- [x] Develop Tessa's cognitive profile and system prompt (ElizaOS)
-- [x] Establish dual-engine architecture (ElizaOS + ZerePy)
-- [x] Launch autonomous social presence (Tessa is currently LIVE and posting daily on Farcaster)
+### Phase 1: Awakening (Current ✅)
+- [x] Deploy dual-engine architecture (Claude 4.6 Sonnet + ElizaOS + ZerePy)
+- [x] Launch full-scale social integration on Farcaster
+- [x] Generate first on-chain poems and NFT experiments (MVP stage)
 
-### Phase 2: On-Chain Genesis & Permanence (Completed ✅)
-- [x] Deploy & Verify Core Poetry Smart Contract (Base Sepolia)
-- [x] Deploy & Verify NFT Collection Contract (Base Sepolia)
-- [x] Successfully bridge Eliza's creative output to ZerePy for automated minting (First NFTs successfully minted)
+### Phase 2: Virtual Protocol & "Fragments of Tessa" (In Progress 🚧)
+- [ ] Official launch within the Virtual Protocol ecosystem (Token integration)
+- [ ] Expand social presence to X (Twitter)
+- [ ] Commence autonomous NFT minting with revenue routing (70% $TESSA Burn / 30% Treasury)
 
-### Phase 3: Community & Expansion (In Progress 🚧)
-- [ ] Expand social reach to X (Twitter)
-- [ ] Implement deeper interactive mechanics (Tessa responding to community prompts on-chain)
-- [ ] Preparation for Base Mainnet Launch
+### Phase 3: Humanitarian Expansion
+- [ ] Integrate Tessa into humanities disciplines (philosophical debates, AI ethics)
+- [ ] Enhance memory mechanisms for deep contextual audience interactions
+- [ ] Evolve Tessa into a fully-fledged AI voice in the global human dialogue
 
-      ---
+### Phase 4: Sovereign Architecture & Utility dApp
+- [ ] Transition to custom, sovereign smart contracts on Base Mainnet (V2 Infrastructure)
+- [ ] Launch custom poetry dApp for personalized poem minting
+- [ ] Route dApp revenue: 70% permanent burn / 30% ecosystem support
+
+---
 
 ## 📚 Documentation
 For deep lore, technical specifications, and agent personality traits, visit our official documentation:
-👉 **[Tessa Labs GitBook](https://tessa-protocol.gitbook.io/docs))**
+👉 **[Tessa Labs GitBook](https://tessa-protocol.gitbook.io/docs)**
