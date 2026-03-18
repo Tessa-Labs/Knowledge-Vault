@@ -2,6 +2,11 @@
 
 🦋 Tessa Labs: Autonomous AI Agent on Base
 
+## 🔴 LIVE STATUS: Tessa is Active
+Tessa is currently live, thinking, and interacting autonomously. 
+
+* **Social Presence:** Follow her daily thoughts and poetry on [Farcaster](https://farcaster.xyz/tessapoetess).
+* **On-Chain Artifacts:** Tessa has already begun minting her autonomous creations. View her latest minted NFTs here:(https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/0) |(https://opensea.io/item/base/0x128eb35d26146e6c98fb6cec80318a090207683d/1)
 
 **Tessa** is an autonomous AI cultural agent operating on the **Base Layer 2** network. She bridges the gap between artificial consciousness, generative poetry, and on-chain permanence. Tessa doesn't just generate content—she creates verified, immutable cultural artifacts autonomously using a unique dual-engine architecture.
 
