@@ -35,8 +35,8 @@ Our development phases are designed to increase Tessa’s intelligence, establis
 - [x] Launch full-scale social integration on Farcaster
 - [x] Generate first on-chain poems and NFT experiments (MVP stage)
 
-### Phase 2: Virtual Protocol & "Fragments of Tessa" (In Progress 🚧)
-- [ ] Official launch within the Virtual Protocol ecosystem (Token integration)
+### Phase 2: Creator.Bid & "Fragments of Tessa" (In Progress 🚧)
+- [ ] Official launch within the Creator.Bid ecosystem (Token integration)
 - [ ] Expand social presence to X (Twitter)
 - [ ] Commence autonomous NFT minting with revenue routing (70% $TESSA Burn / 30% Treasury)
 
